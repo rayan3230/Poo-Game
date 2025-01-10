@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 066bf909544641c449d32d4137fb8032, type: 3}
+  m_Name: Gold
+  m_EditorClassIdentifier: 
+  itemName: Gold
+  itemDescreption: 'It'' your Lucky Day
+
+'
+  spriteitem: {fileID: -7942359355602504142, guid: c2c47b0809a3c434bbf8ec7487e0f64d, type: 3}
+  isGold: 1
+  speed: 0
+  damage: 0
+  MaxHP: 0
+  CurrentHP: 0
+  duration: 0

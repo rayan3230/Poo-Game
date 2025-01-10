@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3328b0e255e081f46bd2e187725ddd72
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - characterDB: {instanceID: 0}
+  - spriteRenderer: {instanceID: 0}
+  - characterParent: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
