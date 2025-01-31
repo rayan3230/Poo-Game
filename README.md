@@ -35,7 +35,7 @@ Setup Instructions
 
 Clone this repository:
 
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/rayan3230/Poo-Game.git
 
 Open the project in Unity.
 
