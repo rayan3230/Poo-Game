@@ -35,7 +35,8 @@ Setup Instructions
 
 Clone this repository:
 
-git clone https://github.com/rayan3230/Poo-Game.git
+# git clone
+ https://github.com/rayan3230/Poo-Game.git
 
 Open the project in Unity.
 
@@ -45,9 +46,12 @@ Link UI buttons to attack and special ability functions.
 
 Run the game and enjoy the battle!
 
-Future Improvements
+# Future Improvements
 
-🚀 Add more character classes and abilities.🛠️ Implement animations for attacks and special abilities.🎨 Improve UI/UX for a better gameplay experience.🌍 Add in the future the multiplayer functionality.
+🚀 Add more character classes and abilities.
+🛠️ Implement animations for attacks and special abilities.
+🎨 Improve UI/UX for a better gameplay experience.
+🌍 Add in the future the multiplayer functionality.
 
 This game is an early prototype of a turn-based RPG system. Contributions and feedback are welcome! 😃
 
